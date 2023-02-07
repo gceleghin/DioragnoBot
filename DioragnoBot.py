@@ -1,4 +1,6 @@
-import hidden
+#!/usr/bin/env python3
+
+import token
 from telegram import Update
 from telegram.ext import Updater
 
